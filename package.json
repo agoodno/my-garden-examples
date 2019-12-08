@@ -1,0 +1,32 @@
+{
+  "name": "multiselect-usage",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@zendeskgarden/react-dropdowns": "6.9.2",
+    "@zendeskgarden/react-grid": "7.1.2",
+    "@zendeskgarden/react-tags": "7.1.2",
+    "@zendeskgarden/react-theming": "7.0.0",
+    "@zendeskgarden/svg-icons": "6.8.1",
+    "lodash": "4.17.15",
+    "prop-types": "15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "styled-components": "4.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
